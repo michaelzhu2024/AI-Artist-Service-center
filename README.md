@@ -7,9 +7,12 @@
 
 ## 平台协议
 
-- **Deploy for free with one-click** on Vercel in under 1 minute
-- Compact client (~5MB) on Linux/Windows/MacOS, [download it now](https://github.com/Yidadaa/ChatGPT-Next-Web/releases)
-- Fully compatible with self-deployed LLMs, recommended for use with [RWKV-Runner](https://github.com/josStorer/RWKV-Runner) or [LocalAI](https://github.com/go-skynet/LocalAI)
+- <a href="https://docs.qq.com/doc/p/7b8777d1a7858b26dde3bf2da20a031d68cd45db">《免责声明》</a>
+- <a href="https://docs.qq.com/doc/p/d7a5ed6e36c4710454b50662ffbe4bcb99ba471f?u=3db57e6c816a428083f60f832acc8120">《用户协议》</a>
+- <a href="https://docs.qq.com/doc/p/3187b051cb697eb810a8bb10eb840a28e8ab659b">《下载权益》</a>
+
+
+
 - Privacy first, all data is stored locally in the browser
 - Markdown support: LaTex, mermaid, code highlight, etc.
 - Responsive design, dark mode and PWA
