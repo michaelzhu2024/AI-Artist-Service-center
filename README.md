@@ -10,6 +10,6 @@
 - 🚀 <a href="https://docs.qq.com/doc/p/6d62fc41adeea9f9a0e1975d1cb8f7277b2293df">《热门问题解答》</a>
 
 ```
-code1,code2,code3
+安全密钥：829114
 ```
 
