@@ -10,7 +10,7 @@
 - 🚀 <a href="https://docs.qq.com/doc/p/6d62fc41adeea9f9a0e1975d1cb8f7277b2293df">《热门问题解答》</a>
 
 ## 产品功能
-<a href="https://sm.ms/image/bD7iEZJeB3cFk58" target="_blank"><img src="https://s2.loli.net/2024/01/31/bD7iEZJeB3cFk58.png" alt="1111.png"></a>
+| <a href="https://sm.ms/image/bD7iEZJeB3cFk58" target="_blank"><img src="https://s2.loli.net/2024/01/31/bD7iEZJeB3cFk58.png" alt="1111.png"></a>| 
 `1` 应用编排能力
 
 `4` OpenAPI 接口
