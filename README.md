@@ -9,7 +9,28 @@
 
 - 🚀 <a href="https://docs.qq.com/doc/p/6d62fc41adeea9f9a0e1975d1cb8f7277b2293df">《热门问题解答》</a>
 
+## 产品功能
+
+`1` 应用编排能力
+
+`4` OpenAPI 接口
+   - [x] completions 接口 (chat 模式对齐 GPT 接口)
+   - [x] 知识库 CRUD
+   - [ ] 对话 CRUD
+  
+`5` 运营能力
+   - [x] 免登录分享窗口
+   - [x] Iframe 一键嵌入
+   - [x] 聊天窗口嵌入支持自定义 Icon，默认打开，拖拽等功能
+   - [x] 统一查阅对话记录，并对数据进行标注
+
+<a href="#readme">
+    <img src="https://img.shields.io/badge/-返回顶部-7d09f1.svg" alt="#" align="right">
+</a>
+
+
+
 ```
-安全密钥：829114
+可复制！
 ```
 
