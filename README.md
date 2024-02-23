@@ -16,7 +16,7 @@
 - International user2：<a href="https://www.facebook.com/profile.php?id=100094452263754">facebook</a>
 
 
-## 💡 VIP特权（马上推出）
+## 💡 VIP特权
 <img src="https://t.tdo.ink/Michaelzhu/z7HGxxfr.png" alt="https://t.tdo.ink/Michaelzhu/z7HGxxfr.png" />
 
 
